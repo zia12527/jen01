@@ -48,9 +48,9 @@ public class Coreg {
 	  public void execute() throws InterruptedException, AWTException
 	  {
 		  login();
-//		  publisher();
+		  publisher();
 //		  advertiser();
-		  manage_offer(); 
+//		  manage_offer(); 
 //		  manage_offer_pages();
 	  }
 	  
