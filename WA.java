@@ -51,7 +51,7 @@ public class WA {
 		// driver.findElement(By.xpath("/html/body/div[1]/div[8]/div/div[2]/div/div/div[8]/label/select")).click();
 		 Select drpCountry = new Select(driver.findElement(By.xpath("/html/body/div[1]/div[8]/div/div[2]/div/div/div[8]/label/select")));
 		 drpCountry.selectByVisibleText("India");
-		 driver.findElement(By.xpath("/html/body/div[1]/div[8]/div/div[2]/div/div/div[9]/a")).click();
+		 //driver.findElement(By.xpath("/html/body/div[1]/div[8]/div/div[2]/div/div/div[9]/a")).click();
 		 
 		 
 	  }
